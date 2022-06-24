@@ -34,3 +34,9 @@
   opacity: 0.7;
   cursor: default;
 }
+
+@media (max-width: 20rem) {
+  .buy-button {
+    width: 100%;
+  }
+}
